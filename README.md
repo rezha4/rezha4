@@ -1,8 +1,6 @@
 ### 👋 I'm Rezha
 ### 📍 From Surabaya, Indonesia
 
-![Rezha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezha4&show_icons=true&theme=transparent)
-
 I am a full stack engineer, specializing in web app development.
 My current stack is the MERN Stack: MongoDB, Express, React, Node.
 
