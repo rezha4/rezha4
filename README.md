@@ -3,7 +3,7 @@
 ### 💻 I'm a Full Stack Web Developer
 ### ⚛️ I work with React & Node JS
 
-#### Self taught *May 2023* using [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) and [The Odin Project](https://www.theodinproject.com). 6 months after that I landed my full stack job at [Platon](https://platon.co.id/) *December 2023*
+#### Self taught, *on May 2023*, using [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) and [The Odin Project](https://www.theodinproject.com). 6 months after that I landed my full stack web dev job at [Platon](https://platon.co.id/) *(December 2023)*
 
 <!--
 **rezha4/rezha4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
