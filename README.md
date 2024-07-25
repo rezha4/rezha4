@@ -1,7 +1,7 @@
 ### 👋 I'm Rezha Bahari, you can call me reza
 ### 📍 From Surabaya, Indonesia
 ### 🕸️ I'm a Web Developer
-### 🔧 Java(Type)script - React.js/Next.js, Express.js/Nest.js
+### 🔧 Java(Type)script - React.js/Next.js, Express.js
 
 #### Currently working at [Innovate](https://www.innovate.partners/) as a Full Stack Developer. Self taught, *on May 2023*, using [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) and [The Odin Project](https://www.theodinproject.com). 6 months after that I landed my full stack web dev job at [Platon](https://platon.co.id/) *(December 2023)*. 6 months after Platon, I landed my full time job at Innovate. 🚀
 
